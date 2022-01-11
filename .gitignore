@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/out/
+/Bulls and Cows/task/out/production/classes/
+/Topics/Exception handling/Converting and multiplying/out/
+/Topics/Exception handling/Converting and multiplying/out/production/classes/
